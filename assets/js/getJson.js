@@ -24,6 +24,7 @@ function myFunction(response) {
     document.getElementsByClassName("fullname")[0].innerHTML = name; 
     document.getElementsByClassName("fullname")[1].innerHTML = name;
     document.getElementsByClassName("fullname")[2].innerHTML = name; 
+    document.getElementsByClassName("fullname")[3].innerHTML = name; 
     document.getElementById("now").innerHTML = now; 
     document.getElementById("place").innerHTML = place; 
     document.getElementById("edu").innerHTML = edu;
