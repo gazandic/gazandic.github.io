@@ -1,0 +1,147 @@
+{
+          "data": [
+                    {
+                              "fullname": "gazandi cahyadarma"
+                    },
+                    {
+                              "about": "A third year Computer Science/Informatics undergraduate student at Bandung Institute of Technology. Having interest in programming, design, and business. Seeking an internship to gain more experience in software and web development. Specialities• Programming (Java, HTML, CSS, JQuery, C, C++, etc)• Microsoft Office (Word, PowerPoint, Excel)• Adobe Photoshop "
+                    },
+                    {
+                              "now": "Looking for Software Developer Internship Opportunities"
+                    },
+                    {
+                              "location": "Bandung Area, West Java, Indonesia"
+                    },
+                    {
+                              "joblist": [
+                                        {
+                                                  "job": "Web Developer",
+                                                  "company": "kafilah gadget",
+                                                  "duration": "December 2015 – Present (3 months)",
+                                                  "location": "Bandung Area, West Java, Indonesia",
+                                                  "description": "Make web and mobile app remotely"
+                                        },
+                                        {
+                                                  "job": "Graphic Designer",
+                                                  "company": "kafilah gadget",
+                                                  "duration": "June 2015 – December 2015 (7 months)",
+                                                  "location": "Greater Jakarta Area, Indonesia",
+                                                  "description": "Design brand identity pack, magazine, and brochure"
+                                        },
+                                        {
+                                                  "job": "Private Tutor",
+                                                  "company": "Prince Tutoring",
+                                                  "duration": "January 2015 – June 2015 (6 months)",
+                                                  "location": "Bandung Area, West Java, Indonesia",
+                                                  "description": "Teaching Science to middle school students."
+                                        },
+                                        {
+                                                  "job": "Practicum Assistant of Introduction to Information Technology B Course",
+                                                  "company": "Comlabs-USDI ITB",
+                                                  "duration": "March 2015 – May 2015 (3 months)",
+                                                  "location": "Bandung Area, West Java, Indonesia",
+                                                  "description": "Assisting and assessing first year students in laboratory practicum."
+                                        }
+                              ]
+                    },
+                    {
+                              "edulist": [
+                                        {
+                                                  "eduplace": "Institut Teknologi Bandung (ITB)",
+                                                  "edufocus": "Bachelor's degree, Informatics",
+                                                  "duration": "2013 – 2017",
+                                                  "description": "Activities and Societies: Student Union, KM-ITB"
+                                        },
+                                        {
+                                                  "eduplace": "SMAN 3 Semarang",
+                                                  "edufocus": ", Natural Sciences",
+                                                  "duration": "2011 – 2013",
+                                                  "description": "Ranked top 3 in acceleration class since third semesterActivities and Societies: IOT, Mathematic Olympiad Team"
+                                        },
+                                        {
+                                                  "eduplace": "SMPN 2 Semarang",
+                                                  "edufocus": "",
+                                                  "duration": "2008 – 2011",
+                                                  "description": ""
+                                        }
+                              ]
+                    },
+                    {
+                              "orglist": [
+                                        {
+                                                  "organization": "ITB Informatics Student Union (HMIF)",
+                                                  "position": "Technical Division Staff",
+                                                  "duration": "Starting October 2014",
+                                                  "description": "Support, maintain, and develop the union's member in technical skills with communities, contest, etc"
+                                        },
+                                        {
+                                                  "organization": "KM-ITB",
+                                                  "position": "Entrepreneurship Ministry Staff",
+                                                  "duration": "June 2014 – April 2015",
+                                                  "description": "support and develop ITB students entrepreneurship skills"
+                                        },
+                                        {
+                                                  "organization": "Asrama Kidang Pananjung",
+                                                  "position": "Inventory and Business Minister",
+                                                  "duration": "October 2013 – May 2014",
+                                                  "description": "manage dormitory inventory and make some money for the dormitory"
+                                        }
+                              ]
+                    },
+                    {
+                              "skills": [
+                                        {
+                                                  "skill": "Java"
+                                        },
+                                        {
+                                                  "skill": "JavaScript"
+                                        },
+                                        {
+                                                  "skill": "JSP"
+                                        },
+                                        {
+                                                  "skill": "jQuery"
+                                        },
+                                        {
+                                                  "skill": "Programming"
+                                        },
+                                        {
+                                                  "skill": "PostgreSQL"
+                                        },
+                                        {
+                                                  "skill": "MySQL"
+                                        },
+                                        {
+                                                  "skill": "Photoshop"
+                                        },
+                                        {
+                                                  "skill": "PHP"
+                                        },
+                                        {
+                                                  "skill": "CSS"
+                                        },
+                                        {
+                                                  "skill": "HTML"
+                                        },
+                                        {
+                                                  "skill": "RESTful WebServices"
+                                        },
+                                        {
+                                                  "skill": "Microsoft Office"
+                                        },
+                                        {
+                                                  "skill": "C"
+                                        },
+                                        {
+                                                  "skill": "C++"
+                                        },
+                                        {
+                                                  "skill": "Graphic Design"
+                                        },
+                                        {
+                                                  "skill": "Web Design"
+                                        }
+                              ]
+                    }
+          ]
+}
